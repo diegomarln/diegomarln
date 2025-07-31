@@ -76,11 +76,11 @@ Hello! I'm Diego, a passionate Software Engineering student. I am a proactive an
 </h2>
 
 <p>
-  <a href="https://github.com/josueS-m">
+  <a href="https://github.com/diegomarln">
   <img src="https://github-readme-stats.vercel.app/api?username=josueS-m&show_icons=true&theme=merko&hide_border=false"/>
 </a>
   <br/>
-  <a href="https://github.com/josueS-m">
+  <a href="https://github.com/diegomarln">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueS-m&layout=compact&theme=merko&hide_border=false"/>
   </a>
 </p>
