@@ -13,7 +13,7 @@
   💫 About Me
 </h2>
 
-Hello! I'm Diego, a Systems Engineering student passionate about backend development and database solutions. I specialize in building REST APIs, working with multiple database systems, and creating scalable architectures. I have hands-on experience with Spring Boot, Laravel, and Node.js, alongside proficiency in Oracle, SQL Server, and MySQL. Currently seeking opportunities to contribute to development teams and grow professionally.
+Hello! I'm Diego, a Systems Engineering student passionate about backend development. I specialize in building REST APIs, working with multiple database systems, and creating scalable architectures. I have hands-on experience with Spring Boot, Laravel, and Node.js, alongside proficiency in Oracle, SQL Server, and MySQL. Currently seeking opportunities to contribute to development teams and grow professionally.
 
 ---
 
