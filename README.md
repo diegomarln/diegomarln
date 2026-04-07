@@ -1,19 +1,26 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Diego%20Marín&reversal=false&textBg=false&descAlign=50&animation=twinkling" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Diego%20Marín&reversal=false&textBg=false&animation=twinkling&desc=Ingeniero%20en%20Sistemas&descSize=20&descAlign=82&descAlignY=78" width="800"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=24&center=true&vCenter=true&width=800&height=50&lines=Systems+Engineering+Student;Backend-Focused+Developer;Building+REST+APIs+%26+Scalable+Solutions;Open+to+new+opportunities"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23FFFFFF&size=24&center=true&vCenter=true&width=800&height=50&lines=Systems+Engineering+Student;Backend-Focused+Full+Stack+Developer;Building+REST+APIs+%26+Scalable+Architectures;Technical+Lead+%7C+Laravel+%7C+Spring+Boot+%7C+Docker"/>
   </a>
 </p>
 
-<h2>
-  💫 About Me
-</h2>
+<h2> 💫 About Me </h2> 
 
-Hello! I'm Diego, a Systems Engineering student passionate about backend development. I specialize in building REST APIs, working with multiple database systems, and creating scalable architectures. I have hands-on experience with Spring Boot, Laravel, and Node.js, alongside proficiency in Oracle, SQL Server, and MySQL. Currently seeking opportunities to contribute to development teams and grow professionally.
+Hello! I'm Diego <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16px" alt="hi">, a Systems Engineering student focused on building 
+robust backend architectures and well-structured applications.
+
+My core expertise lies in designing REST APIs and managing relational 
+databases (Oracle, SQL Server, MySQL) using Java with Spring Boot, Laravel, and Node.js. 
+While my deeper interest is in backend, I also work across the full stack — 
+building interfaces with Vue and React, often using TypeScript when needed.
+
+I prioritize clean, maintainable code and modular architecture—practices 
+that help teams move faster and ship more reliable software.
 
 ---
 
@@ -95,7 +102,8 @@ Hello! I'm Diego, a Systems Engineering student passionate about backend develop
 </h3>
 
 <p>  
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/diegomarln" target="_blank">
+  <a href="https://www.linkedin.com/in/diegomarln" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>  
 </p>
+
