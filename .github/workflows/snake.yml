@@ -1,10 +1,12 @@
-# .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # cada día a medianoche
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -15,7 +17,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: diegomarln
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
