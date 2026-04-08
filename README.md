@@ -1,4 +1,3 @@
-<!-- Encabezado animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Diego%20Mar%C3%ADn&animation=twinkling&desc=Ingeniero%20en%20Sistemas&descSize=20&descAlign=82&descAlignY=78" width="800"/>
 </p>
@@ -16,13 +15,10 @@ robust backend architectures and well-structured applications.
 
 My core expertise lies in designing REST APIs and managing relational 
 databases (Oracle, SQL Server, MySQL) using Java with Spring Boot, Laravel, and Node.js. 
-While my deeper interest is in backend, I also work across the full stack - 
-building interfaces with Vue and React, often using TypeScript when needed.
+While my deeper interest is in backend, I also work across the full stack, building interfaces with Vue and React, often using TypeScript when needed.
 
-I prioritize clean, maintainable code and modular architecture-practices 
+I prioritize clean, maintainable code and modular architecture practices 
 that help teams move faster and ship more reliable software.
-
----
 
 <h3>💻 Tech Stack <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
@@ -71,18 +67,6 @@ that help teams move faster and ship more reliable software.
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
-
----
-
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
-</h2>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false" alt="GitHub streak stats"/>
-</p>
-
----
 
 <h3>  
   Connect with me 🤝
