@@ -79,9 +79,7 @@ that help teams move faster and ship more reliable software.
 </h2>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegomarln&layout=compact&theme=merko&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
