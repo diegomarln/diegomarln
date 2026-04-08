@@ -79,10 +79,13 @@ that help teams move faster and ship more reliable software.
 </h2>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegomarln&show_icons=true&theme=merko&hide_border=false"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegomarln&theme=github_dark" alt="GitHub profile stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegomarln&theme=github_dark" alt="Top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegomarln&layout=compact&theme=merko&hide_border=false"/>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
