@@ -79,9 +79,9 @@ that help teams move faster and ship more reliable software.
 </h2>
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegomarln&show_icons=true&theme=merko&hide_border=false"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegomarln&show_icons=true&theme=merko&hide_border=false&count_private=true&include_all_commits=true"/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegomarln&layout=compact&theme=merko&hide_border=false"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegomarln&layout=compact&theme=merko&hide_border=false&count_private=true&include_all_commits=true"/>
 </p>
 
 <p>
