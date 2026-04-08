@@ -15,10 +15,9 @@ robust backend architectures and well-structured applications.
 
 My core expertise lies in designing REST APIs and managing relational 
 databases (Oracle, SQL Server, MySQL) using Java with Spring Boot, Laravel, and Node.js. 
-While my deeper interest is in backend, I also work across the full stack — 
-building interfaces with Vue and React, often using TypeScript when needed.
+While my deeper interest is in backend, I also work across the full stack building interfaces with Vue and React, often using TypeScript when needed.
 
-I prioritize clean, maintainable code and modular architecture—practices 
+I prioritize clean, maintainable code and modular architecture practices 
 that help teams move faster and ship more reliable software.
 
 ---
