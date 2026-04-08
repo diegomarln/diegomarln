@@ -107,6 +107,6 @@ that help teams move faster and ship more reliable software.
 </p>
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,100:0d1117&reversal=false"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&reversal=true"/>
 </div>
 
