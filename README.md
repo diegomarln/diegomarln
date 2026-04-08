@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Diego%20Marín&reversal=false&textBg=false&animation=twinkling&desc=Ingeniero%20en%20Sistemas&descSize=20&descAlign=82&descAlignY=78" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Diego%20Mar%C3%ADn&animation=twinkling&desc=Ingeniero%20en%20Sistemas&descSize=20&descAlign=82&descAlignY=78" width="800"/>
 </p>
 
 <p align="center">
@@ -79,12 +79,6 @@ that help teams move faster and ship more reliable software.
 </h2>
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegomarln&show_icons=true&theme=merko&hide_border=false&count_private=true&include_all_commits=true"/>
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegomarln&layout=compact&theme=merko&hide_border=false&count_private=true&include_all_commits=true"/>
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false" alt="GitHub streak stats"/>
 </p>
 
@@ -102,6 +96,6 @@ that help teams move faster and ship more reliable software.
 </p>
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=timeGradient&reversal=true"/>
 </div>
 
