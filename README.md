@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Diego%20Mar%C3%ADn&animation=twinkling&desc=Ingeniero%20en%20Sistemas&descSize=20&descAlign=82&descAlignY=78" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Diego%20Mar%C3%ADn&animation=twinkling" width="800"/>
 </p>
 
 <p align="center">
