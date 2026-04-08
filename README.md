@@ -79,13 +79,9 @@ that help teams move faster and ship more reliable software.
 </h2>
 
 <p>
-  <a href="https://github.com/diegomarln">
-    <img src="https://github-readme-stats.vercel.app/api?username=diegomarln&show_icons=true&theme=merko&hide_border=false"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/diegomarln/diegomarln/output/stats.svg"/>
   <br/>
-  <a href="https://github.com/diegomarln">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarln&layout=compact&theme=merko&hide_border=false"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/diegomarln/diegomarln/output/langs.svg"/>
 </p>
 
 <p align="center">
