@@ -8,17 +8,20 @@
   </a>
 </p>
 
-<h2> 💫 About Me </h2> 
+<h2> 💫 About Me </h2>
 
 Hello! I'm Diego <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16px" alt="hi">, a Systems Engineering student focused on building 
 robust backend architectures and well-structured applications.
 
 My core expertise lies in designing REST APIs and managing relational 
 databases (Oracle, SQL Server, MySQL) using Java with Spring Boot, Laravel, and Node.js. 
-While my deeper interest is in backend, I also work across the full stack, building interfaces with Vue and React, often using TypeScript when needed.
+While my deeper interest is in backend, I also work across the full stack — 
+building interfaces with Vue and React, often using TypeScript when needed.
 
-I prioritize clean, maintainable code and modular architecture practices 
+I prioritize clean, maintainable code and modular architecture—practices 
 that help teams move faster and ship more reliable software.
+
+---
 
 <h3>💻 Tech Stack <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
@@ -68,18 +71,19 @@ that help teams move faster and ship more reliable software.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
-<h3>  
+---
+
+<h3>
   Connect with me 🤝
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h3>
 
-<p>  
-  <a href="https://www.linkedin.com/in/diegomarln" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/diegomarln">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>  
+  </a>
 </p>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=timeGradient&reversal=true"/>
 </div>
-
