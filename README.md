@@ -80,6 +80,9 @@ that help teams move faster and ship more reliable software.
 
 <p>
   <img src="https://streak-stats.demolab.com?user=diegomarln&theme=merko&hide_border=false" alt="GitHub streak stats"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegomarln&theme=github_dark" alt="GitHub profile stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegomarln&theme=github_dark" alt="Top languages"/>
 </p>
 
 <p align="center">
